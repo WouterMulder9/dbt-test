@@ -1,0 +1,1 @@
+select distinct * from raw.jaffle_shop.customers
